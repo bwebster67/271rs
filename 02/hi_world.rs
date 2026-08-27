@@ -1,1 +1,1 @@
-wait I don't know rust yet
+// TODO: Homework 0
